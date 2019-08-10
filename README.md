@@ -15,7 +15,7 @@ Librerias
 * os
 
 Para Correr el programa ejecuten el archivo Principal.py
-> 'python Principal.py'
+'python Principal.py'
 
 
 > Hechenle ganas compañeros
